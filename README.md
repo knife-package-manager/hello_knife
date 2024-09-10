@@ -1,2 +1,2 @@
 # hello_knife
-Sample simple knife package
+Sample simple rade package
